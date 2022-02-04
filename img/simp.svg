@@ -1,0 +1,30 @@
+<svg id="Composant_77_1" data-name="Composant 77 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="310" height="346.069" viewBox="0 0 310 346.069">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc2c2"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path id="Tracé_421" data-name="Tracé 421" d="M0,0H310V346H0Z" transform="translate(0 0.069)" fill="none"/>
+  <g id="Composant_63_13" data-name="Composant 63 – 13" transform="translate(65.982)">
+    <path id="Union_11" data-name="Union 11" d="M1322-6548.062h0V-6661.19h0c0-.1,0-.21,0-.314,0-49.429,39.856-89.5,89.019-89.5s89.017,40.066,89.017,89.5c0,.1,0,.21,0,.314h0v113.128h0c-.1,49.343-39.915,89.319-89.017,89.319S1322.1-6498.719,1322-6548.062Z" transform="translate(1500.036 -6458.742) rotate(180)" opacity="0.32" fill="url(#linear-gradient)"/>
+  </g>
+  <text id="simplicité" transform="translate(155 313.069)" font-size="27" font-family="HammersmithOne-Regular, Hammersmith One"><tspan x="-59.715" y="24">simplicité</tspan></text>
+  <g id="check-tick-svgrepo-com" transform="translate(111.684 88.593)">
+    <g id="Groupe_380" data-name="Groupe 380" transform="translate(0 49.501)">
+      <g id="Groupe_379" data-name="Groupe 379" transform="translate(0)">
+        <path id="Tracé_379" data-name="Tracé 379" d="M86.128,60.286l-10.28-10.28a1.726,1.726,0,0,0-2.441,0L28.758,94.657,13.226,79.125a1.726,1.726,0,0,0-2.441,0L.505,89.4a1.726,1.726,0,0,0,0,2.441l27.032,27.032a1.726,1.726,0,0,0,2.441,0l56.15-56.15A1.726,1.726,0,0,0,86.128,60.286Zm-57.371,54.93L4.166,90.625l7.839-7.84L27.538,98.318a1.726,1.726,0,0,0,2.441,0l44.65-44.65,7.839,7.839Z" transform="translate(0 -49.501)"/>
+      </g>
+    </g>
+    <g id="Groupe_382" data-name="Groupe 382" transform="translate(58.497 64.776)">
+      <g id="Groupe_381" data-name="Groupe 381" transform="translate(0 0)">
+        <path id="Tracé_380" data-name="Tracé 380" d="M361.25,140.279a1.726,1.726,0,0,0-2.441,0l-12.593,12.593a1.726,1.726,0,0,0,2.441,2.441L361.25,142.72A1.726,1.726,0,0,0,361.25,140.279Z" transform="translate(-345.711 -139.774)"/>
+      </g>
+    </g>
+    <g id="Groupe_384" data-name="Groupe 384" transform="translate(75.244 60.194)">
+      <g id="Groupe_383" data-name="Groupe 383" transform="translate(0 0)">
+        <path id="Tracé_381" data-name="Tracé 381" d="M448.063,113.205a1.726,1.726,0,0,0-2.441,0l-.431.431a1.726,1.726,0,0,0,2.441,2.441l.431-.431A1.726,1.726,0,0,0,448.063,113.205Z" transform="translate(-444.685 -112.7)"/>
+      </g>
+    </g>
+  </g>
+</svg>

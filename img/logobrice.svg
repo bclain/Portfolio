@@ -1,0 +1,23 @@
+<svg id="Composant_86_1" data-name="Composant 86 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600.632" height="256.706" viewBox="0 0 600.632 256.706">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_512" data-name="Rectangle 512" width="600.632" height="256.706" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_454" data-name="Groupe 454">
+    <g id="Groupe_453" data-name="Groupe 453" clip-path="url(#clip-path)">
+      <path id="Tracé_437" data-name="Tracé 437" d="M29.579,217.038H12.6A12.6,12.6,0,0,1,0,204.442V154.389a12.6,12.6,0,0,1,12.6-12.6H29.579q28.186,0,41.368,8.579t13.17,27.5q0,39.171-54.539,39.164" transform="translate(0 -41.596)" fill="#e50e42"/>
+      <path id="Tracé_438" data-name="Tracé 438" d="M29.579,75.244H12.6A12.6,12.6,0,0,1,0,62.648V12.595A12.6,12.6,0,0,1,12.6,0H29.579Q57.765,0,70.948,8.578t13.17,27.5q0,39.171-54.539,39.164" transform="translate(0 0)" fill="#141a68"/>
+      <path id="Tracé_439" data-name="Tracé 439" d="M223.373,75.077H209.3c-8.5,0-15.395-5.527-15.395-12.345V12.75C193.9,5.932,200.795.405,209.3.405h14.076q28.082,0,41.216,8.514t13.121,27.292q0,38.873-54.337,38.867" transform="translate(-56.883 -0.119)" fill="#e50e42"/>
+      <path id="Tracé_440" data-name="Tracé 440" d="M209.3,217.453H260.45c11.831,0,19.24-10.464,13.356-18.861L239.8,150.064c-2.591-3.7-7.288-6.07-12.487-6.31l-17.145-.793c-8.829-.408-16.263,5.34-16.263,12.575v49.322c0,6.957,6.893,12.6,15.395,12.6" transform="translate(-56.883 -41.932)" fill="#141a68"/>
+      <path id="Tracé_441" data-name="Tracé 441" d="M620.973,30.37a17.285,17.285,0,0,0-2.521-9.34C609.914,8.1,598.875.3,586.81.3c-27.072,0-49.016,39.245-49.016,87.656s21.945,87.656,49.016,87.656c12.065,0,23.1-7.807,31.642-20.736a17.285,17.285,0,0,0,2.521-9.34Z" transform="translate(-157.766 -0.087)" fill="#e50e42"/>
+    </g>
+  </g>
+  <text id="Designer_graphique_et_developper" data-name="Designer graphique et developper" transform="translate(4.485 207.308)" fill="gray" font-size="32" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0" letter-spacing="0.003em">D</tspan><tspan y="0" letter-spacing="0.002em">e</tspan><tspan y="0" letter-spacing="0.003em">sig</tspan><tspan y="0" letter-spacing="0.008em">n</tspan><tspan y="0" letter-spacing="0.003em">e</tspan><tspan y="0" letter-spacing="0.002em">r</tspan><tspan y="0" xml:space="preserve" letter-spacing="0.003em"> g</tspan><tspan y="0" letter-spacing="-0.004em">r</tspan><tspan y="0" letter-spacing="0.003em">aphique e</tspan><tspan y="0" letter-spacing="0.002em">t</tspan><tspan y="0" xml:space="preserve" letter-spacing="0.003em"> d</tspan><tspan y="0" letter-spacing="-0.006em">e</tspan><tspan y="0" letter-spacing="-0.012em">v</tspan><tspan y="0" letter-spacing="0.003em">eloppe</tspan><tspan y="0">r</tspan></text>
+  <g id="Groupe_456" data-name="Groupe 456">
+    <g id="Groupe_455" data-name="Groupe 455" clip-path="url(#clip-path)">
+      <path id="Tracé_442" data-name="Tracé 442" d="M428.364,175.607H400.67a12.6,12.6,0,0,1-12.6-12.6V12.9A12.6,12.6,0,0,1,400.67.3h27.694a12.6,12.6,0,0,1,12.6,12.6V163a12.6,12.6,0,0,1-12.6,12.6" transform="translate(-113.842 -0.087)" fill="#141a68"/>
+      <path id="Tracé_443" data-name="Tracé 443" d="M730.368,13V48.267a12.377,12.377,0,0,0,12.146,12.6h42.511a12.377,12.377,0,0,1,12.146,12.6V87.314a12.377,12.377,0,0,1-12.146,12.6H742.514a12.376,12.376,0,0,0-12.146,12.6v50.383a12.377,12.377,0,0,0,12.146,12.6h59.516a12.377,12.377,0,0,0,12.146-12.6V13A12.377,12.377,0,0,0,802.029.4H742.514A12.377,12.377,0,0,0,730.368,13" transform="translate(-214.259 -0.118)" fill="#141a68"/>
+    </g>
+  </g>
+</svg>

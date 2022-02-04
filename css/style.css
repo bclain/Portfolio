@@ -1,0 +1,1043 @@
+@font-face {
+    font-family: "Cuprum";
+    src: url("../fonts/NotoSans-Regular.ttf") format("truetype");
+}
+
+
+body{
+    height: 100%;
+    margin: 0px; padding: 0px;
+    font-family: 'Cuprum';
+    background-image: url("../img/fond.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+  }
+
+h1{
+    font-size: 70px;
+}
+
+h4{
+    padding-bottom: 1%;;
+    font-size: 30px;
+}
+
+h5{
+    font-size: 30px;
+}
+
+
+
+h2{
+    line-height: 130%;
+    font-size: 17px;
+    color: black;
+}
+
+p{
+    font-size: 20px;
+}
+
+  a{
+    text-decoration: none;
+    color: inherit;
+  }
+
+  a:hover{
+    text-decoration: none;
+    color: #E50E42;
+  }
+
+.gauche{
+    background-color: white;
+    width: 20%;
+    max-width: 400px;
+    min-width: 300px;
+    height: 100%;
+    position: fixed;
+    bottom:0px;
+    left:0px;
+    border-right:2px solid #D5CFCF;
+}
+
+.menu{
+    margin-top: 10%;
+    margin-left: 10%;
+    font-size: 14px;
+    color: #00003D;
+}
+
+.menu h2:hover{
+    color: #E50E42;
+}
+
+.menu1{
+    display: flex;
+    margin-top: -17px;
+    margin-bottom: -17px;
+    font-size: 14px;
+}
+
+.menu2{
+    display: flex;
+    margin-top: -17px;
+    margin-bottom: -17px;
+}
+
+.menu3{
+    display: flex;
+    margin-top: -17px;
+    margin-bottom: -17px;
+}
+
+
+.selected img{
+    display: block;
+    margin-top:auto;
+    margin-bottom: auto;
+    margin-right: 5px;
+}
+
+#logobrice{
+    margin-top:40%;
+    margin-bottom: 40%;
+    margin-right: 10%;
+    margin-left: 10%;
+    width: 230px;
+}
+
+.contact{
+    bottom:0px;
+    left:0px;
+    bottom: 0;
+    height: 250px;
+    width: 100%;
+    position: absolute;
+    border-top:2px solid #D5CFCF;
+    background-color: white;
+}
+
+.contactcontent{
+    margin: 5%;
+}
+
+.contactcontent h2{
+    margin: 3%;
+    margin-bottom:10%;;
+    font-size: 20px;
+    color: #6B6B6B;
+}
+
+.contactcontent h3{
+    text-align: center;
+}
+
+.social{
+    text-align: center;
+}
+
+.social img{
+    margin: 2%;
+}
+
+.services{
+    margin-left: 60%;
+    margin-top: 6%;
+   max-height: 450px;
+   height: 25vw;
+}
+
+.aff1{
+    display: flex;
+    justify-content: center;
+    padding-top: 350px;
+    padding-bottom: 50px;
+}
+
+
+.aff1txt{
+    padding-left: 5%;
+    padding-right: 7%;
+    max-width: 700px;
+    font-size: 25px;
+    color: black;
+    text-align: left;
+}
+
+.aff1txt p{
+    font-size: 30px;
+}
+
+.up{
+    color: #E50E42;
+    font-weight: 600;
+}
+
+.aff1Container{
+    display: grid;
+    text-align: center;
+    padding-left: 5%;
+    padding-top: 50px;
+  }
+  
+.back, .top{
+    grid-column: 1;
+    grid-row: 1;
+    justify-content: center;
+    max-height: 450px;
+    height: 25vw;
+  }
+
+.top{
+    grid-column: 1;
+    grid-row: 1;
+    justify-content: center;
+    max-height: 450px;
+    height: 25vw;
+  }
+
+.aff{
+    float: right;
+    width: 100%;
+    background-color: #F2F9FF;
+    border-top:2px solid #D5CFCF;
+}
+
+.aff2{
+    float: right;
+    width: 100%;
+    border-top:2px solid #D5CFCF;
+}
+
+.logoimg{
+    float: right;
+    height: 35vw;
+    width: 35vw;
+    max-width: 1000px;
+    max-height: 1000px;
+    background-image: url("../img/photologo.png");
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
+
+.logoex{
+
+position: absolute;
+    left: 60%;
+    transform: translate(-100%);
+}
+
+.logocontent{    
+    display: flex;
+    background-image: url("../img/eff1.svg");
+    background-repeat: no-repeat;
+    background-size: 90% ;
+    background-position: center;
+    height: 35vw    ;
+}
+
+
+.cequi{
+    border-top:2px solid #D5CFCF;
+    float: left;
+    width: 100%;
+    text-align: left;
+}
+
+.aff2{
+    border-top:2px solid #D5CFCF;
+    float: left;
+    width: 100%;
+    text-align: left;
+}
+
+.gauchec{
+    width: 20%;
+    max-width: 400px;
+    min-width: 300px;
+    height: 300px;
+    background-color: blue;
+    float: left;
+    display: block;
+}
+
+.mid{
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+
+.mid1{
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+
+.mid2{
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+.mid3{
+    width: 100%;
+    justify-content: center;
+    display: inline-block;
+    width: auto;
+    margin:20px;
+}
+
+.mid3 img{
+    height: 30px;
+}
+
+.mid3 p{
+    margin-top: 10%;
+    font-size:  30px;
+}
+
+.mid h5{
+    padding-right: 40px;
+}
+
+.cequicontain{
+    display: flex;
+    justify-content: center;
+    margin-top: -30px;
+}
+
+.cequicontain img{
+    width: 17vw;
+    margin-bottom: 5%;
+}
+
+.uxicontain{
+    display: flex;
+    justify-content: center;
+    margin-top: -30px;
+}
+
+.webex{
+    width: 70vw ;
+}
+
+.txt{
+    height: 50px;
+    margin-top:-30px ;
+    padding-left:5%;
+    padding-right:5%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.brandimg{
+    float: right;
+    height: 40vw;
+    width: 35vw;
+    background-image: url("../img/brandimg.png");
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
+
+
+.brandcontent{
+    display: flex;
+    background-image: url("../img/brand.png");
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    background-position: center;
+    height: 40vw    ;
+}
+
+.qu{
+    float: left;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    text-align: left;
+    background: url("../img/fond2.png")no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.qu h1{
+    color: white;
+
+}
+
+
+.qu h2{
+    color: white;
+}
+
+.qu h4{
+    color: #AFAFAF;
+}
+
+.qui{
+    float: right;
+    height: 45vw;
+    width: 40vw;
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    padding-right: 20px;
+    padding-top: 40px;
+}
+
+.quisuis{
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+
+.logomoi{
+    width: 20vw;
+    height: 40vw;
+    background-image: url("../img/quisuis.png");
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    display: flex;
+    justify-content: center;
+    margin-bottom: -200px ;
+    margin-top: -30px ;
+    text-align: center;
+    background-size: auto;
+    background-position: center;
+}
+
+.quisuiscontain{
+    display: flex;
+    justify-content: center;
+}
+
+.cetxt{
+    margin-top: -30px;
+    padding-left: 7%;
+    padding-right: 7%;
+    max-width: 900px;
+    color: white;
+    text-align: left;
+}
+
+.cetxt h2{
+    font-size: 2vw;
+}
+
+.cetxt h4{
+    font-size: clamp(16px, 4vw, 22px);
+    color: white;
+}
+
+.cetxt a{
+    font-size: clamp(16px, 4vw, 22px);
+    color: white;
+    text-decoration:  underline;
+}
+
+.cetxt a:hover{
+    color: #E50E42;
+    text-decoration:  underline;
+}
+
+
+.ceimg{
+    max-height: 400px;
+    max-width: 260px;
+    padding-left: 7%;
+    width: 50vw;
+}
+
+.ceoutils{
+    height: 200px;
+    max-width: 240px;
+    width: 100%;
+    
+}
+
+.ceoutils h4{
+    font-size: 30px;
+}
+
+.competences{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+.comp{ 
+    padding-bottom: 30px; 
+    float: left;
+    width: 100%;
+    text-align: left;
+}
+
+.compcontain{
+    display: flex;
+    justify-content: center;
+}
+
+.lientxt{
+    margin-left: 7%;
+    padding-left: 7%;
+    max-width: 700px;
+    color: white;
+    text-align: left;
+}
+
+.lientxt1{
+    padding-left: 7%;
+    padding-right: 7%;
+    max-width: 700px;
+    font-size: 25px;
+    text-align: left;
+}
+
+.lientxt h4{
+    font-size: 30px;
+}
+
+.lientxt h5{
+    font-size: 20px;
+}
+.lientxt a{
+    line-height: 70%;
+}
+
+.gauched{
+    width: 20%;
+    max-width: 400px;
+    min-width: 300px;
+    height: 70px;
+    float: left;
+    display: block;
+}
+
+.gauchea{
+    width: 20%;
+    max-width: 400px;
+    min-width: 300px;
+    height: 250px;
+    float: left;
+    display: block;
+}
+
+
+
+.basin{
+    text-align: center;
+    background-color: white;
+    height: 30px;
+    border-top:2px solid #D5CFCF;
+    float: left;
+    width: 100%;
+    text-align: left;
+}
+
+.txt2{
+    height: 50px;
+    margin-top:5px ;
+    padding-left:5%;
+    padding-right:5%;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+
+.liensrapide{
+    display: flex;
+    justify-content: center;
+}
+
+.liensrapide a{
+    text-decoration: underline;
+    margin-right: 20px;
+}
+
+.reatitre{
+    float: left;
+    border-top:2px solid #D5CFCF;
+    width: 100%;
+    text-align: left;
+    background-color: white;
+}
+
+.reatitrec{
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+
+a{
+    color: grey;
+}
+
+.box p{
+    font-size: 15px;
+    margin-left: 30px; 
+    margin-top: 0%;
+}
+
+.box h5{
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 5%;
+    margin-bottom: 1%;
+}
+
+
+.loin { 
+    display: flex;
+    background-image: url("../img/loin.svg");
+    background-repeat: no-repeat;
+    background-size: 25% ;
+    background-position: center;
+    background-color: #1E1111;
+    height:500px    ;
+    transition: 0.3s;
+}
+
+.loin:hover { 
+    background-color: black;
+}
+
+.ac { 
+    display: flex;
+    background-image: url("../img/ac.png");
+    background-repeat: no-repeat;
+    background-size: 25% ;
+    background-position: center;
+    background-color: #F0F3FF;
+    height:500px  ;
+    transition: 0.3s;
+}
+
+.ac:hover { 
+    background-color: white;
+}
+
+.surle { display: flex;
+    background-image: url("../img/surle.png");
+    background-repeat: no-repeat;
+    background-size: 25% ;
+    background-position: center;
+    background-color: #EEFCED;
+    height:500px  ;
+    transition: 0.3s;
+}
+
+.surle:hover { 
+    background-color: white;
+}
+
+.diet { display: flex;
+    background-image: url("../img/diet.png");
+    background-repeat: no-repeat;
+    background-size: 25% ;
+    background-position: center;
+    background-color: #F5F5F5;
+    height:500px  ;
+    transition: 0.3s;
+}
+.diet:hover { 
+    background-color: white;
+}
+
+.smalls{
+    display: none;
+}
+
+.qsmalls{
+    display: none;
+}
+
+.xsmalls{
+    display: none;
+    }
+
+    .button{
+        display: none;
+       }
+    
+     .contactt{
+       display: none;
+       }
+
+
+       .sidenav {
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        background-color: white;
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 60px;
+        
+        -webkit-box-shadow: -10px -18px 40px 3px rgba(0,0,0,0.2); 
+        box-shadow: -10px -18px 40px 3px rgba(0,0,0,0.2);
+      }
+      
+      .sidenav a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 25px;
+        color: #818181;
+        display: block;
+        transition: 0.3s;
+      }
+
+      .logob {
+        padding: 50px 50px 50px 50px;
+      }
+      
+      .sidenav a:hover {
+        color: #f1f1f1;
+      }
+      
+      .sidenav .closebtn {
+        position: absolute;
+        top: 0;
+        right: 25px;
+        font-size: 36px;
+        margin-left: 50px;
+      }
+
+      .social2{
+        display: block;
+        text-align: left;
+        margin-top: 32px;
+        margin-left: 32px;
+      }
+    
+    .sidenav{
+        display: none;
+    }
+
+
+@media only screen and (max-width: 1250px) {
+
+    .res{
+        display: none;
+    }
+
+    .back, .top{
+        grid-column: 1;
+        grid-row: 1;
+        justify-content: center;
+        max-height: 450px;
+        height: 300px;
+      }
+
+  .bigs{
+      display: none;
+  }
+
+  .xsmalls{
+    display: none;
+    }
+
+  .smalls{
+    display: block
+    }
+
+    .qsmalls{
+        display: block
+        }
+
+    h1{
+        font-size: 60px;
+    }
+  
+    .aff1Container{
+     display: grid;
+     text-align: center;
+     padding-left: 7%;
+     padding-top: 60px;
+    }
+
+    .aff1titre{
+        width: 300px;
+        padding-top: 50px;
+        padding-right: 7%;
+        font-size: 35px;
+        color: black;
+        text-align: left;
+    }
+
+    .aff1txt{
+        margin-left: 20%;
+        margin-right: 7%;
+        padding-left: 10%;
+        color: black;
+        text-align: left;
+        display: flex;
+    }
+
+    .aff1txt p{
+        font-size: 25px;
+    }
+
+    .logoex{
+        width: 50vw ;
+    }
+
+    .ceimg{
+        margin-top: 50px;
+        max-width: 600px;
+        padding-left: 0%;
+        width: 90vw;
+    }
+
+    .compcontain{
+        display: flex;
+        justify-content: left;
+    }
+
+    .ceoutils {
+        margin-left: 7%;
+        padding-left: 7%;
+        padding-bottom: 40px; 
+    }
+
+    .comp2{ 
+        padding-bottom: 30px; 
+        float: left;
+        width: 100%;
+        text-align: left;
+        margin-top: -20px; 
+    }
+
+    .compcontain h4{
+        padding-top: -15%;
+    }
+
+    .uxicontain{
+        display: flex;
+        justify-content: center;
+        margin-top: -10px;
+    }
+
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .sidenav{
+        display: initial;
+    }
+
+    .sel{
+        color: red;
+    }
+
+  .bigs{
+      display: none;
+  }
+
+  .smalls{
+    display: none;
+    }
+
+  .qsmalls{
+     display: block
+    }
+ 
+  .xsmalls{
+    display: block;
+    }
+
+  .gauche{
+    display: none
+    }
+
+  .gauchea{
+    display: none
+    }
+
+  .gauchec{
+    display: none
+    }
+
+    .gauched{
+    display: none
+    }
+     .gauchee{
+    display: none
+    }
+
+    h1{
+        font-size: 40px;
+        }
+    
+    h4{
+    font-size: 20px;
+    padding-right: 1%;
+    padding-left: 1%;
+    }
+
+    h5{
+        font-size: 15px;
+        }
+
+    .aff1titre{
+        display: block;
+    }
+
+    .aff1Container{
+        display: grid;
+        text-align: center;
+        padding-left: 0%;
+        padding-top: 120px;
+       }
+
+    .compcontain{
+        display: flex;
+        justify-content: center;
+    }
+
+    .aff1txt{
+        margin-left: 0.5%;
+        margin-right: 0.5%;
+        color: black;
+        text-align: left;
+        display: flex;
+    }
+    .aff1txt p{
+        font-size: 18px;
+    }
+    
+    .txt{
+        height: 100%;
+        margin-top:-30px ;
+        padding-left:5%;
+        padding-right:5%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .basin{
+        text-align: center;
+        background-color: white;
+        border-top:2px solid #D5CFCF;
+        float: left;
+        width: 100%;
+        text-align: left;
+    }
+
+    .ceimg{
+        margin-top: 120px;
+        max-width: 600px;
+        padding-left: 0%;
+        width: 80vw;
+    }
+    
+    .loin { 
+        background-size: 45% ;
+        height:400px    ;
+    }
+
+    .diet { 
+        background-size: 45% ;
+        height:400px    ;
+    }
+
+    .ac { 
+        background-size: 45% ;
+        height:400px    ;
+    }
+
+    .surle { 
+        background-size: 45% ;
+        height:400px    ;
+    }
+
+    .webex1{
+        width: 90vw ;
+        margin-bottom: 20px;
+    }
+    
+    .ceoutils{
+        margin-left: 5%;
+        padding-left: 0%;
+        margin-right: 7%;
+        margin-right: 0%;
+        padding-left: 0%;
+    }
+
+    .lientxt{
+        margin-left: 5%;
+        padding-left: 0%;
+        margin-right: 7%;
+        max-width: 700px;
+        color: white;
+        text-align: left;
+    }
+
+    
+    .cetxt p{
+        font-size: 3vw;
+    }
+
+    .lientxt h5{
+        font-size: 3vw;     
+    }
+
+    .compcontain1{
+        display: flex;
+        justify-content: center;
+    }
+
+    .compcontain{
+        display: flex;
+        justify-content: left;
+    }
+
+    .liensrapide{
+        display: flex;
+        justify-content: center;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    .button{
+        display: block
+       }
+
+    .button {
+        overflow: hidden;
+        position: fixed;
+        background-color: white;
+        top: 0;
+        width: 100%;
+        height: 75px;
+        -webkit-box-shadow: -10px -18px 40px 3px rgba(0,0,0,0.2); 
+        box-shadow: -10px -18px 40px 3px rgba(0,0,0,0.2);
+        
+      }
+
+    .button img{
+        margin-left: 4%;
+        margin-top: 15px;
+       height: 40px;
+       float: left;
+      }
+
+      .button p{
+        margin-top: 10px;
+       float: right;
+       margin-right: 4%;
+      }
+
+      #logobrice{
+        margin: 10%;
+        width: 150px;
+    }
+
+
+}
